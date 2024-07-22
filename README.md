@@ -3,8 +3,7 @@
 
 
 <img align="left" width="240" src="https://i.giphy.com/PjJ1cLHqLEveXysGDB.webp"> <samp> <br>
-    🧑‍💻 Last seen: I'm Learn new Skills<br>
-    Based: Urmia - IR<br>
+    🧑‍💻 Last seen: Working on AI and Machine Learning projects<br>
 </samp>
 
 
