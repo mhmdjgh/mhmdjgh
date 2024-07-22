@@ -8,6 +8,21 @@
 </samp>
 
 
+
+# My Skills :
+<samp>
+HTML ,
+CSS ,
+PHP ,
+JS ,
+SQL ,
+PYTHON ,
+and more..!
+</samp>
+<br>
+
+I like Programming :)
+
 <br><br><br>
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/" target="_blank"><img align="center" src='https://img.icons8.com/?size=100&id=63306&format=png&color=000000' alt="telegram"  height='40'/></a>
@@ -27,5 +42,8 @@
 <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://pypi-camo.freetls.fastly.net/f600bfcd25689c0d5d393d9189ae33d0ef4e6551/68747470733a2f2f636861726c6573667279652e6769746875622e696f2f696d672f70616e6e6461732d6c6f676f2e6a706567" alt="c"  height="40"/></a>
 
 <br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmdjgh&theme=buefy&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=mhmdjgh&theme=buefy&show_icons=true" alt="Anurag's GitHub stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdjgh&layout=compact" alt="Top Langs">
+</div>
