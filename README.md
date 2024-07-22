@@ -4,15 +4,9 @@
 ## AI Engineer <br>
 
 
-<img align="left" width="240" src="https://i.giphy.com/3oFzlVJAzNUDwvpcc0.webp"> <samp> <br>
+<img align="left" width="240" src="https://i.giphy.com/PjJ1cLHqLEveXysGDB.webp"> <samp> <br>
     🧑‍💻 Last seen: I'm Learn new Skills<br>
     Based: Urmia - IR<br>
-</samp>
-<img align="left" width="240" src="https://i.giphy.com/PjJ1cLHqLEveXysGDB.webp"> <samp> <br>
-</samp>
-<img align="left" width="240" src="https://i.giphy.com/IcZhFmufozDCij3p22.webp"> <samp> <br>
-</samp>
-<img align="left" width="240" src="https://i.giphy.com/ew57HYXAM8716OOtPm.webp"> <samp> <br>
 </samp>
 
 
