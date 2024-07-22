@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Mohammad Javad Ghaderi Poor
 ## AI Engineer <br>
 
