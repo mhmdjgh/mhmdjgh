@@ -2,8 +2,8 @@
 ## AI Engineer <br>
 
    
-<img style="padding: 150px;" align="left" width="250" src="https://media.tenor.com/Q0ycw3NivPoAAAAi/dragon-flying-dragong.gif">
-<samp> <br>
+<img align="right" width="350" src="https://media.tenor.com/Q0ycw3NivPoAAAAi/dragon-flying-dragong.gif">
+<samp align="left"> <br>
         🧑‍💻 Last seen: Working on AI and Machine Learning projects<br>
 </samp>
 
