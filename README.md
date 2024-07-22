@@ -2,7 +2,7 @@
 
 # Mohammad Javad Ghaderi Poor
 ## AI Engineer <br>
-<img align="left" width="240" src="[https://media.tenor.com/IpAyHtYc--gAAAAi/charizard-flying.gif](https://i.giphy.com/3oFzlVJAzNUDwvpcc0.webp)"> <samp> <br>
+<img align="left" width="240" src="https://i.giphy.com/3oFzlVJAzNUDwvpcc0.webp"> <samp> <br>
     🧑‍💻 Last seen: I'm Learn new Skills<br>
     Based: Urmia - IR<br>
 </samp>
