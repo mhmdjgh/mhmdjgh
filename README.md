@@ -1,15 +1,23 @@
 ## Hi there 👋
 
+# Mohammad Javad Ghaderi Poor
+## AI Engineer <br>
+<img align="left" width="240" src="[https://media.tenor.com/IpAyHtYc--gAAAAi/charizard-flying.gif](https://i.giphy.com/3oFzlVJAzNUDwvpcc0.webp)"> <samp> <br>
+    🧑‍💻 Last seen: I'm Learn new Skills<br>
+    Based: Urmia - IR<br>
+</samp>
 
-**mhmdjgh/mhmdjgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My Skills :
+<samp>
+HTML ,
+CSS ,
+PHP ,
+JS ,
+SQL ,
+PYTHON ,
+and more..!
+</samp>
+<br>
 
-Here are some ideas to get you started:
+I like Programming :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
