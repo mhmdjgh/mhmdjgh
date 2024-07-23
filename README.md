@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Javad Ghaderi Poor <h3> AI Engineer </h3> </h1>
 <br>
    
-<img align="right"  height="20" src="https://i.giphy.com/PjJ1cLHqLEveXysGDB.webp">
+<img align="right"  height="250" src="https://i.giphy.com/PjJ1cLHqLEveXysGDB.webp">
 
 🧑‍💻 working on AI and Machine Learning projects, while also studying and learning advanced AI and deep learning topics.<br>
 🎓 I earned my Bachelor's degree in Computer Science from Shahrekord University. My final project at the university focused on machine learning and time series forecasting.<br>
