@@ -3,7 +3,7 @@
 <br>
    
 <div>
-   <img align="right"  height="350" width="350" src="https://i.giphy.com/PjJ1cLHqLEveXysGDB.webp">
+   <img align="right"  height="350" width="350" src="https://i.giphy.com/PjJ1cLHqLEveXysGDB.webp"> <br><br>
    <samp> 
       🧑‍💻 working on AI and Machine Learning projects, while also studying and learning advanced AI and deep learning topics.<br>
       🎓 I earned my Bachelor's degree in Computer Science from Shahrekord University. My final project at the university focused on machine learning and time series forecasting.<br>
@@ -15,7 +15,7 @@
 
 
 
-<br><br><br><br><br>
+<br><br><br><br>
 <div align="center" >
 <h4 align="center">Languages and Tools:</h4>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" height="50"/></a>
