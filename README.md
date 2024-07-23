@@ -13,8 +13,6 @@
 </div> <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmdghj&label=Profile%20views&color=0e75b6&style=flat" alt="haadijafari" /> </p>
 
-<a href="https://www.coffeebede.com/mhmdjgh"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="150" height="100"/></a>
-
 <br><br><br>
 <div align="center" >
 <h4 align="center">Languages and Tools:</h4>
