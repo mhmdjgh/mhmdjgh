@@ -3,8 +3,8 @@
 <br>
    
 <div>
-   <img align="right"  height="350" width="350" src="https://i.giphy.com/PjJ1cLHqLEveXysGDB.webp">
-   <samp> <br>
+   <img align="right"  height="400" width="400" src="https://i.giphy.com/PjJ1cLHqLEveXysGDB.webp">
+   <samp> <br>                   
       🧑‍💻 working on AI and Machine Learning projects, while also studying and learning advanced AI and deep learning topics.<br><br>
       🎓 I earned my Bachelor's degree in Computer Science from Shahrekord University. My final project at the university focused on machine learning and time series forecasting.<br><br>
       🤝 Passionate about collaborating with other AI enthusiasts to enhance my knowledge and tackle challenging problems.<br><br>
@@ -13,9 +13,7 @@
 </div> <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmdghj&label=Profile%20views&color=0e75b6&style=flat" alt="haadijafari" /> </p>
 
-
-
-<br><br><br>
+<br><br>
 <div align="center" >
 <h4 align="center">Languages and Tools:</h4>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" height="50"/></a>
