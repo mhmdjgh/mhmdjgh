@@ -13,7 +13,7 @@
 </div> <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmdghj&label=Profile%20views&color=0e75b6&style=flat" alt="haadijafari" /> </p>
 
-<br><br><br><br>
+<br><br><br>
 <div align="center" >
 <h4 align="center">Languages and Tools:</h4>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" height="50"/></a>
