@@ -41,7 +41,7 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdjgh&theme=buefy" height="140"  alt="Top Langs"  />
 </div>
 
-<br><br>
+<br>
 <div align="center">
    <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake Animation" />
 </div>
