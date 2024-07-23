@@ -6,8 +6,6 @@
    <img align="right"  height="340" width="340" src="https://i.giphy.com/PjJ1cLHqLEveXysGDB.webp">
    <samp> <br><br>                
       🧑‍💻 working on AI and Machine Learning projects, while also studying and learning advanced AI and deep learning topics.<br><br>
-     <h3>🧑‍💻 Working on AI and Machine Learning projects, while also studying and learning advanced AI and deep learning topics.</h3>
-     <h4>🧑‍💻 Working on AI and Machine Learning projects, while also studying and learning advanced AI and deep learning topics.</h4>
       🎓 I earned my Bachelor's degree in Computer Science from Shahrekord University. My final project at the university focused on machine learning and time series forecasting.<br><br>
       🤝 Passionate about collaborating with other AI enthusiasts to enhance my knowledge and tackle challenging problems.<br><br>
       🌐 Looking forward to connecting with professionals and organizations in the AI industry for potential collaborations.
