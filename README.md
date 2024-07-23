@@ -1,17 +1,14 @@
-# Mohammad Javad Ghaderi Poor
-## AI Engineer <br>
 
-
+<h1 align="center">Hi 👋, I'm Mohammad Javad Ghaderi Poor <h3> AI Engineer </h3> </h1>
 <br>
-<div  >
-   <img align="right"  height="250" src="https://i.giphy.com/PjJ1cLHqLEveXysGDB.webp">
-   <samp> 
-      🧑‍💻 working on AI and Machine Learning projects, while also studying and learning advanced AI and deep learning topics.<br>
-      🎓 I earned my Bachelor's degree in Computer Science from Shahrekord University. My final project at the university focused on machine learning and time series forecasting.<br>
-      🤝 Passionate about collaborating with other AI enthusiasts to enhance my knowledge and tackle challenging problems.<br>
-      🌐 Looking forward to connecting with professionals and organizations in the AI industry for potential collaborations.
-   </samp>
-</div> <br>
+   
+<img align="right"  height="20" src="https://i.giphy.com/PjJ1cLHqLEveXysGDB.webp">
+
+🧑‍💻 working on AI and Machine Learning projects, while also studying and learning advanced AI and deep learning topics.<br>
+🎓 I earned my Bachelor's degree in Computer Science from Shahrekord University. My final project at the university focused on machine learning and time series forecasting.<br>
+🤝 Passionate about collaborating with other AI enthusiasts to enhance my knowledge and tackle challenging problems.<br>
+🌐 Looking forward to connecting with professionals and organizations in the AI industry for potential collaborations.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmdghj&label=Profile%20views&color=0e75b6&style=flat" alt="haadijafari" /> </p>
 
 
