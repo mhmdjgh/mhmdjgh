@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Mohammad Javad Ghaderi Poor <h3> AI Engineer </h3> </h1>
+<h1 align="center">Hi 👋, I'm Mohammad Javad Ghaderi Poor</h1>
 <br>
    
 <div>
