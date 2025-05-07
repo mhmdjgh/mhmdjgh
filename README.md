@@ -23,8 +23,7 @@
 <a href="https://isocpp.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="C++"  height="50"/></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java"  height="50"/></a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" alt="TensorFlow"  height="50"/></a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000" alt="GCP"  height="50"/></a>
-<a href="https://scikit-learn.org" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" alt="scikit-learn"  height="50"/></a>
+<a href="https://scikit-learn.org" target="_blank" rel="noreferrer"> <img src="https://images.seeklogo.com/logo-png/33/1/scikit-learn-logo-png_seeklogo-337685.png" alt="scikit-learn"  height="50"/></a>
 <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://pypi-camo.freetls.fastly.net/f600bfcd25689c0d5d393d9189ae33d0ef4e6551/68747470733a2f2f636861726c6573667279652e6769746875622e696f2f696d672f70616e6e6461732d6c6f676f2e6a706567" alt="pandas"  height="40"/></a>
 </div>
 
@@ -32,9 +31,9 @@
 
 <div align="center">
 <h4 align="center">Socials</h4>
-<a href="https://t.me/yourtelegram" target="_blank"><img align="center" src='https://img.icons8.com/?size=100&id=63306&format=png&color=000000' alt="Telegram"  height='50'/></a>
-<a href="https://instagram.com/yourinstagram" target="_blank"><img align="center" src='https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000' alt='Instagram'  height='50'/></a>
-<a href="https://x.com/yourtwitter" target="_blank"><img align="center" src='https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000' alt='X'  height='50'/></a>
+<a href="https://t.me/mhmdj_ghaderipoor" target="_blank"><img align="center" src='https://img.icons8.com/?size=100&id=63306&format=png&color=000000' alt="Telegram"  height='50'/></a>
+<!-- <a href="https://instagram.com/yourinstagram" target="_blank"><img align="center" src='https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000' alt='Instagram'  height='50'/></a> -->
+<!-- <a href="https://x.com/yourtwitter" target="_blank"><img align="center" src='https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000' alt='X'  height='50'/></a> -->
 <a href="https://linkedin.com/in/yourlinkedin" target="_blank"><img align="center" src='https://img.icons8.com/?size=100&id=13930&format=png&color=000000' alt='LinkedIn' height='50'/></a>
 </div>
 
