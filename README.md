@@ -4,7 +4,7 @@
 <div>
    <img align="right" height="340" width="340" src="https://i.giphy.com/PjJ1cLHqLEveXysGDB.webp">
    <samp> <br>               
-      🧑‍💻 I'm currently pursuing my Master's degree in Artificial Intelligence and actively working on AI and Machine Learning projects.<br><br>
+      🧑‍💻 I'm currently pursuing my Master's degree in Artificial Intelligence at Allameh Tabataba'i University and actively working on AI and Machine Learning projects.<br><br>
       🎓 I earned my Bachelor's degree in Computer Science from Shahrekord University. My final project focused on machine learning and time series forecasting.<br><br>
       📚 As a graduate student, I'm diving deeper into cutting-edge AI topics such as deep learning, probabilistic modeling, and responsible ML engineering.<br><br>
       🤝 I’m looking to collaborate with professionals, startups, and research teams in the AI industry to work together on impactful projects and real-world challenges.<br><br>
