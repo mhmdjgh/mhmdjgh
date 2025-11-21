@@ -38,12 +38,6 @@
 
 <br><br>
 
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=mhmdjgh&theme=buefy&show_icons=true" height="140"  alt="GitHub Stats"/>
-   <img src="https://streak-stats.demolab.com?user=mhmdjgh&theme=buefy&card_height=170" height="140" alt="GitHub Streak" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdjgh&theme=buefy" height="140"  alt="Top Langs"  />
-</div>
-
 <br>
 
 <div align="center">
