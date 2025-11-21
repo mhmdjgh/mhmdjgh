@@ -12,7 +12,7 @@
 <p align="left">
    <img src="https://komarev.com/ghpvc/?username=mhmdghj&label=Profile%20views&color=0e75b6&style=flat"
         alt="mhmdghj"
-        width="120" />
+        width="90" />
 </p>
 
 
