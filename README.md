@@ -4,10 +4,9 @@
 <div>
    <img align="right" height="340" width="340" src="https://i.giphy.com/PjJ1cLHqLEveXysGDB.webp">
    <samp> <br>               
-      🧑‍💻 I'm currently pursuing my Master's degree in Artificial Intelligence at Allameh Tabataba'i University and actively working on AI and Machine Learning projects.<br><br>
-      🎓 I earned my Bachelor's degree in Computer Science from Shahrekord University. My final project focused on machine learning and time series forecasting.<br><br>
-      📚 As a graduate student, I'm diving deeper into cutting-edge AI topics such as deep learning, probabilistic modeling, and responsible ML engineering.<br><br>
-      🌱 Always eager to learn, share ideas, and contribute to AI communities. Let's build the future together.
+         In the quiet distance between frames,
+         I sculpt the logic of a mind that learns from shadows —
+         a machine that dreams in pixels and awakens in prediction.
    </samp>
 </div> <br>
 
