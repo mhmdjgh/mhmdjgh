@@ -23,7 +23,7 @@
 <a href="https://t.me/mhmdj_ghaderipoor" target="_blank"><img align="center" src='https://img.icons8.com/?size=100&id=63306&format=png&color=000000' alt="Telegram"  height='50'/></a>
 <!-- <a href="https://instagram.com/yourinstagram" target="_blank"><img align="center" src='https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000' alt='Instagram'  height='50'/></a> -->
 <!-- <a href="https://x.com/yourtwitter" target="_blank"><img align="center" src='https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000' alt='X'  height='50'/></a> -->
-<a href="https://linkedin.com/in/yourlinkedin" target="_blank"><img align="center" src='https://img.icons8.com/?size=100&id=13930&format=png&color=000000' alt='LinkedIn' height='50'/></a>
+<a href="https://linkedin.com/in/mohammadjavadgh" target="_blank"><img align="center" src='https://img.icons8.com/?size=100&id=13930&format=png&color=000000' alt='LinkedIn' height='50'/></a>
 </div>
 
 <br><br>
